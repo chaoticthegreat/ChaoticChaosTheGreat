@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ChaoticChaosTheGreat
-- 👀 I’m interested in ethical hacking and ml
-- 🌱 I’m currently learning C++ and Java
-- 💞️ I’m looking to collaborate on python/java
+- 👋 Hi, I’m Ryan
+- 👀 I am interested in machine learning
+- 🌱 Some of my primary languages are Python, C++, and Java
+- 💞️ I do robotics. 
 
 <!---
 ChaoticChaosTheGreat/ChaoticChaosTheGreat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
